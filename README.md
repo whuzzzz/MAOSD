@@ -9,5 +9,5 @@ year = {2025},
 issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2025.127769},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417425013910},
-author = {Zhizheng Zhang and Rui Cao and Hongting Sheng and Mingqiang Guo and Zhenfeng Shao and Liang Wu},
+author = {Zhizheng Zhang and Rui Cao and Hongting Sheng},
 }
